@@ -2,7 +2,7 @@
  * bcat BG Switcher - unobtrusive background image switcher
  * @version 1.0.0
  * @jQuery version 1.2+
- * @author Yuriy Davats http://www.bcat.eu
+ * @author Yuriy Davats https://www.bcat.eu
  * @copyright Yuriy Davats
  */
 
