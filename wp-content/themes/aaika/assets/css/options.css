@@ -8,7 +8,7 @@
 
 html body .logo img{max-height: 70px;}
 body{background-color: #CCCCCC;}
-body{background-image: url(wp-content/themes/aaika/assets/images/patterns/bg23.png);}
+body{background-image: url(/wp-content/themes/aaika/assets/images/patterns/bg23.png);}
 a{text-decoration: default;}
 a:hover{text-decoration: default;}
 body,.dropdown-menu,body p{font-family:'Raleway';font-size:14px;}
