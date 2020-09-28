@@ -8,53 +8,53 @@
 		<meta name="description" content="" />
 	<meta name="keywords" content="" />
 		<meta property="og:type" content="devn:photo" />
-	<meta property="og:url" content="http://azevan.com/" />
+	<meta property="og:url" content="" />
 	<meta property="og:title" content="Home Layout 14" />
 	<meta property="og:description" content="Pharmaceuticals" />
-	<meta property="og:image" content="http://azevan.com/wp-content/uploads/2014/12/footer-graph3-150x25.png" />
+	<meta property="og:image" content="wp-content/uploads/2014/12/footer-graph3-150x25.png" />
 		<meta name="author" content="king-theme.com" />
 	<meta name="contact" content="contact@king-theme.com" />
-	<link rel="pingback" href="http://azevan.com/xmlrpc.php" />
-	<link rel="shortcut icon" href="http://192.157.59.8/staging.azevan.com/wp-content/uploads/2016/04/logo.jpg" type="image/x-icon" /><title>Azevan &#8211; Pharmaceuticals</title>
+	<link rel="pingback" href="xmlrpc.php" />
+	<link rel="shortcut icon" href="wp-content/uploads/2016/04/logo.jpg" type="image/x-icon" /><title>Azevan &#8211; Pharmaceuticals</title>
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="Azevan &raquo; Feed" href="http://azevan.com/index.php/feed/" />
-<link rel='stylesheet' id='wp-block-library-css'  href='http://azevan.com/wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='layerslider-css'  href='http://azevan.com/wp-content/plugins/LayerSlider/static/css/layerslider.css?ver=5.6.2' type='text/css' media='all' />
+<link rel="alternate" type="application/rss+xml" title="Azevan &raquo; Feed" href="index.php/feed/" />
+<link rel='stylesheet' id='wp-block-library-css'  href='wp-includes/css/dist/block-library/style.min.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='wp-content/plugins/LayerSlider/static/css/layerslider.css?ver=5.6.2' type='text/css' media='all' />
 <link rel='stylesheet' id='ls-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900%7COpen+Sans:300%7CIndie+Flower:regular%7COswald:300,regular,700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
-<link rel='stylesheet' id='contact-form-7-css'  href='http://azevan.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2.2' type='text/css' media='all' />
-<link rel='stylesheet' id='js_composer_front-css'  href='http://azevan.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.4.1' type='text/css' media='all' />
-<link rel='stylesheet' id='devn-bootstrap-css'  href='http://azevan.com/wp-content/themes/aaika/assets/css/bootstrap3/css/bootstrap.min.gsr.css?ver=4.0.7' type='text/css' media='all' />
-<link rel='stylesheet' id='devn-bootstrap-resp-css'  href='http://azevan.com/wp-content/themes/aaika/assets/css/bootstrap_responsive.css?ver=4.0.7' type='text/css' media='all' />
-<link rel='stylesheet' id='devn-default-css'  href='http://azevan.com/wp-content/themes/aaika/assets/css/default.css?ver=4.0.7' type='text/css' media='all' />
-<link rel='stylesheet' id='devn-core-css'  href='http://azevan.com/wp-content/themes/aaika/assets/css/devn.css?ver=4.0.7' type='text/css' media='all' />
-<link rel='stylesheet' id='devn-stylesheet-css'  href='http://azevan.com/wp-content/themes/aaika/style.css?ver=4.0.7' type='text/css' media='all' />
-<link rel='stylesheet' id='devn-effects-css'  href='http://azevan.com/wp-content/themes/aaika/core/assets/css/animate.css?ver=4.0.7' type='text/css' media='all' />
-<link rel='stylesheet' id='devn-shortcodes-css'  href='http://azevan.com/wp-content/themes/aaika/assets/css/shortcodes.css?ver=4.0.7' type='text/css' media='all' />
-<link rel='stylesheet' id='devn-portfolio-css'  href='http://azevan.com/wp-content/themes/aaika/assets/css/devn_portfolio.css?ver=4.0.7' type='text/css' media='all' />
-<link rel='stylesheet' id='devn-slidepanel-css'  href='http://azevan.com/wp-content/themes/aaika/assets/css/slidepanel.css?ver=4.0.7' type='text/css' media='all' />
-<link rel='stylesheet' id='devn-timeline-css'  href='http://azevan.com/wp-content/themes/aaika/assets/css/timeline.css?ver=4.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='devn-bootstrap-css'  href='wp-content/themes/aaika/assets/css/bootstrap3/css/bootstrap.min.gsr.css?ver=4.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='devn-bootstrap-resp-css'  href='wp-content/themes/aaika/assets/css/bootstrap_responsive.css?ver=4.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='devn-default-css'  href='wp-content/themes/aaika/assets/css/default.css?ver=4.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='devn-core-css'  href='wp-content/themes/aaika/assets/css/devn.css?ver=4.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='devn-stylesheet-css'  href='wp-content/themes/aaika/style.css?ver=4.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='devn-effects-css'  href='wp-content/themes/aaika/core/assets/css/animate.css?ver=4.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='devn-shortcodes-css'  href='wp-content/themes/aaika/assets/css/shortcodes.css?ver=4.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='devn-portfolio-css'  href='wp-content/themes/aaika/assets/css/devn_portfolio.css?ver=4.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='devn-slidepanel-css'  href='wp-content/themes/aaika/assets/css/slidepanel.css?ver=4.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='devn-timeline-css'  href='wp-content/themes/aaika/assets/css/timeline.css?ver=4.0.7' type='text/css' media='all' />
 <link rel='stylesheet' id='devn-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Open+Sans%3A300%2C300italic%2C400%2C400italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%7CRaleway%3A400%2C100%2C200%2C300%2C500%2C600%2C700%2C800%2C900%7CDancing+Script%3A400%2C700%7CJosefin+Sans%3A400%2C100%2C100italic%2C300%2C300italic%2C400italic%2C600%2C600italic%2C700%2C700italic&#038;ver=5.5.1' type='text/css' media='all' />
-<link rel='stylesheet' id='devn-menu-1-css'  href='http://azevan.com/wp-content/themes/aaika/assets/css/menu.css?ver=4.0.7' type='text/css' media='all' />
-<link rel='stylesheet' id='devn-options-css'  href='http://azevan.com/wp-content/themes/aaika/assets/css/options.css?ver=1544080308' type='text/css' media='all' />
-<link rel='stylesheet' id='devn-responsive-css'  href='http://azevan.com/wp-content/themes/aaika/assets/css/responsive.css?ver=4.0.7' type='text/css' media='all' />
-<script type='text/javascript' src='http://azevan.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
+<link rel='stylesheet' id='devn-menu-1-css'  href='wp-content/themes/aaika/assets/css/menu.css?ver=4.0.7' type='text/css' media='all' />
+<link rel='stylesheet' id='devn-options-css'  href='wp-content/themes/aaika/assets/css/options.css?ver=1544080308' type='text/css' media='all' />
+<link rel='stylesheet' id='devn-responsive-css'  href='wp-content/themes/aaika/assets/css/responsive.css?ver=4.0.7' type='text/css' media='all' />
+<script type='text/javascript' src='wp-includes/js/jquery/jquery.js?ver=1.12.4-wp' id='jquery-core-js'></script>
 <script type='text/javascript' id='devn-user-script-js-extra'>
 /* <![CDATA[ */
 var ajax_user_object = {"ajaxurl":"http:\/\/azevan.com\/wp-admin\/admin-ajax.php","redirecturl":"http:\/\/azevan.com\/wp-admin\/profile.php","loadingmessage":"Sending user info, please wait..."};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://azevan.com/wp-content/themes/aaika/assets/js/devn.user.js?ver=5.5.1' id='devn-user-script-js'></script>
-<script type='text/javascript' src='http://azevan.com/wp-content/plugins/LayerSlider/static/js/greensock.js?ver=1.11.8' id='greensock-js'></script>
-<script type='text/javascript' src='http://azevan.com/wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js?ver=5.6.2' id='layerslider-js'></script>
-<script type='text/javascript' src='http://azevan.com/wp-content/plugins/LayerSlider/static/js/layerslider.transitions.js?ver=5.6.2' id='layerslider-transitions-js'></script>
-<link rel="https://api.w.org/" href="http://azevan.com/index.php/wp-json/" /><link rel="alternate" type="application/json" href="http://azevan.com/index.php/wp-json/wp/v2/pages/1450" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://azevan.com/xmlrpc.php?rsd" />
+<script type='text/javascript' src='wp-content/themes/aaika/assets/js/devn.user.js?ver=5.5.1' id='devn-user-script-js'></script>
+<script type='text/javascript' src='wp-content/plugins/LayerSlider/static/js/greensock.js?ver=1.11.8' id='greensock-js'></script>
+<script type='text/javascript' src='wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js?ver=5.6.2' id='layerslider-js'></script>
+<script type='text/javascript' src='wp-content/plugins/LayerSlider/static/js/layerslider.transitions.js?ver=5.6.2' id='layerslider-transitions-js'></script>
+<link rel="https://api.w.org/" href="index.php/wp-json/" /><link rel="alternate" type="application/json" href="index.php/wp-json/wp/v2/pages/1450" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php?rsd" />
 <meta name="generator" content="WordPress 5.5.1" />
-<link rel="canonical" href="http://azevan.com/" />
-<link rel='shortlink' href='http://azevan.com/' />
-<link rel="alternate" type="application/json+oembed" href="http://azevan.com/index.php/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fazevan.com%2F" />
-<link rel="alternate" type="text/xml+oembed" href="http://azevan.com/index.php/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fazevan.com%2F&#038;format=xml" />
-<script type="text/javascript">var site_uri = "http://azevan.com";var theme_uri = "http://azevan.com/wp-content/themes/aaika";</script><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+<link rel="canonical" href="" />
+<link rel='shortlink' href='' />
+<link rel="alternate" type="application/json+oembed" href="index.php/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fazevan.com%2F" />
+<link rel="alternate" type="text/xml+oembed" href="index.php/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fazevan.com%2F&#038;format=xml" />
+<script type="text/javascript">var site_uri = "http://azevan.com";var theme_uri = "wp-content/themes/aaika";</script><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
 <style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1460641286338{margin-top: 0px !important;border-top-width: 0px !important;padding-top: 0px !important;}.vc_custom_1460641471429{margin-top: 0px !important;border-top-width: 0px !important;padding-top: 0px !important;}.vc_custom_1460468012858{margin-top: 0px !important;margin-bottom: 0px !important;border-top-width: 0px !important;border-bottom-width: 0px !important;padding-top: 50px !important;padding-bottom: 0px !important;}.vc_custom_1461172541115{margin-top: 0px !important;border-top-width: 0px !important;padding-top: 0px !important;}.vc_custom_1461172547651{margin-top: 0px !important;border-top-width: 0px !important;padding-top: 0px !important;}.vc_custom_1461172554221{margin-top: 0px !important;border-top-width: 0px !important;padding-top: 0px !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head>
 <body class="home page-template page-template-templates page-template-full-width page-template-templatesfull-width-php page page-id-1450 page-child parent-pageid-901 bg-cover wpb-js-composer js-comp-ver-6.4.1 vc_responsive">
 	<div id="main" class="layout-wide page-home-14 site_wrapper">
@@ -64,7 +64,7 @@ var ajax_user_object = {"ajaxurl":"http:\/\/azevan.com\/wp-admin\/admin-ajax.php
 		<div class="col-md-12">
 			<div class="logo">
 				<a href="http://azevan.com">
-					<img src="http://azevan.com/wp-content/uploads/2016/04/logo.gif" alt="Pharmaceuticals" />
+					<img src="wp-content/uploads/2016/04/logo.gif" alt="Pharmaceuticals" />
 				</a>
 			</div>
 			
@@ -83,11 +83,11 @@ var ajax_user_object = {"ajaxurl":"http:\/\/azevan.com\/wp-admin\/admin-ajax.php
 							</div>
 						</div>
 						<div id="navbar-collapse-1" class="navbar-collapse collapse pull-right">
-							<div class="menu-homepage-final-menu-container"><ul id="devn-mainmenu" class="nav navbar-nav"><li id="menu-item-2900" class="menu-item menu-item-type-post_type menu-item-object-page dropdown menu-item-2900 yam-fwr"><a href="http://azevan.com/index.php/pages/technology/">Technology</a></li>
-<li id="menu-item-2933" class="menu-item menu-item-type-post_type menu-item-object-page dropdown menu-item-2933 yam-fwr"><a href="http://azevan.com/index.php/pages/clinical-candidates-2/">Clinical Candidates</a></li>
-<li id="menu-item-2897" class="menu-item menu-item-type-post_type menu-item-object-page dropdown menu-item-2897 yam-fwr"><a href="http://azevan.com/index.php/pages/our-team/">Our Team</a></li>
-<li id="menu-item-3029" class="menu-item menu-item-type-post_type menu-item-object-page dropdown menu-item-3029 yam-fwr"><a href="http://azevan.com/index.php/pages/news/">News</a></li>
-<li id="menu-item-2972" class="menu-item menu-item-type-post_type menu-item-object-page dropdown menu-item-2972 yam-fwr"><a href="http://azevan.com/index.php/pages/contact-us/">Contact Us</a></li>
+							<div class="menu-homepage-final-menu-container"><ul id="devn-mainmenu" class="nav navbar-nav"><li id="menu-item-2900" class="menu-item menu-item-type-post_type menu-item-object-page dropdown menu-item-2900 yam-fwr"><a href="index.php/pages/technology/">Technology</a></li>
+<li id="menu-item-2933" class="menu-item menu-item-type-post_type menu-item-object-page dropdown menu-item-2933 yam-fwr"><a href="index.php/pages/clinical-candidates-2/">Clinical Candidates</a></li>
+<li id="menu-item-2897" class="menu-item menu-item-type-post_type menu-item-object-page dropdown menu-item-2897 yam-fwr"><a href="index.php/pages/our-team/">Our Team</a></li>
+<li id="menu-item-3029" class="menu-item menu-item-type-post_type menu-item-object-page dropdown menu-item-3029 yam-fwr"><a href="index.php/pages/news/">News</a></li>
+<li id="menu-item-2972" class="menu-item menu-item-type-post_type menu-item-object-page dropdown menu-item-2972 yam-fwr"><a href="index.php/pages/contact-us/">Contact Us</a></li>
 </ul></div>						</div>
 					</div>
 				</div>
@@ -111,10 +111,10 @@ var ajax_user_object = {"ajaxurl":"http:\/\/azevan.com\/wp-admin\/admin-ajax.php
 lsjQuery(document).ready(function() {
 if(typeof lsjQuery.fn.layerSlider == "undefined") { lsShowNotice('layerslider_3','jquery'); }
 else {
-lsjQuery("#layerslider_3").layerSlider({startInViewport: false, globalBGImage: 'http://192.157.59.8/staging.azevan.com/wp-content/uploads/2014/12/slider-bg.png', skinsPath: 'http://azevan.com/wp-content/plugins/LayerSlider/static/skins/'})
+lsjQuery("#layerslider_3").layerSlider({startInViewport: false, globalBGImage: 'wp-content/uploads/2014/12/slider-bg.png', skinsPath: 'wp-content/plugins/LayerSlider/static/skins/'})
 }
 });
-</script><div id="layerslider_3" class="ls-wp-container" style="width:1600px;height:400px;margin:0 auto;margin-bottom: 0px;"><div class="ls-slide" data-ls="slidedelay:10000; transition2d: all;"><img class="ls-l" style="top:0px;left:0px;width:;height:;padding-top:;padding-right:;padding-bottom:;padding-left:;border-top:;border-right:;border-bottom:;border-left:;font-family:;font-size:;line-height:;color:;background:;border-radius:;white-space: nowrap;" src="http://azevan.com/wp-content/uploads/2016/04/Slider_10_BG_v2_highres.jpg" alt=""><p class="ls-l" style="top:150px;left:183px;color: #333333; font-size: 50px; line-height: 52px; font-family: 'Raleway', sans-serif; font-weight: 300;white-space: nowrap;" data-ls="offsetxin:-80;durationin:2000;delayin:1000;easingin:easeOutQuint;offsetxout:0;easingout:easeOutQuint;">Developing</p><p class="ls-l" style="top:150px;left:110px;color: #333333;
+</script><div id="layerslider_3" class="ls-wp-container" style="width:1600px;height:400px;margin:0 auto;margin-bottom: 0px;"><div class="ls-slide" data-ls="slidedelay:10000; transition2d: all;"><img class="ls-l" style="top:0px;left:0px;width:;height:;padding-top:;padding-right:;padding-bottom:;padding-left:;border-top:;border-right:;border-bottom:;border-left:;font-family:;font-size:;line-height:;color:;background:;border-radius:;white-space: nowrap;" src="wp-content/uploads/2016/04/Slider_10_BG_v2_highres.jpg" alt=""><p class="ls-l" style="top:150px;left:183px;color: #333333; font-size: 50px; line-height: 52px; font-family: 'Raleway', sans-serif; font-weight: 300;white-space: nowrap;" data-ls="offsetxin:-80;durationin:2000;delayin:1000;easingin:easeOutQuint;offsetxout:0;easingout:easeOutQuint;">Developing</p><p class="ls-l" style="top:150px;left:110px;color: #333333;
 font-size: 50px;
 line-height: 52px;
 font-family: 'Raleway', sans-serif;
@@ -285,7 +285,7 @@ text-align:right;white-space: nowrap;" data-ls="offsetxin:-80;durationin:2000;de
 			<div class="execphpwidget">
 				<ul class="faddress">
 	<li>
-		<img src="http://azevan.com/wp-content/uploads/2016/04/Azevan_footer-logo.png" />
+		<img src="wp-content/uploads/2016/04/Azevan_footer-logo.png" />
 	</li>
 </ul>			</div>
 		</aside>					</div><!-- #secondary -->
@@ -343,13 +343,13 @@ text-align:right;white-space: nowrap;" data-ls="offsetxin:-80;durationin:2000;de
 var wpcf7 = {"apiSettings":{"root":"http:\/\/azevan.com\/index.php\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"}};
 /* ]]> */
 </script>
-<script type='text/javascript' src='http://azevan.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2.2' id='contact-form-7-js'></script>
-<script type='text/javascript' src='http://azevan.com/wp-content/themes/aaika/assets/js/custom.js?ver=4.0.7' id='devn-custom-js'></script>
-<script type='text/javascript' src='http://azevan.com/wp-content/themes/aaika/assets/js/viewportchecker.js?ver=4.0.7' id='devn-viewportchecker-js'></script>
-<script type='text/javascript' src='http://azevan.com/wp-content/themes/aaika/assets/js/pretty/js/jquery.prettyPhoto.js?ver=4.0.7' id='devn-prettyphoto-js'></script>
-<script type='text/javascript' src='http://azevan.com/wp-content/themes/aaika/assets/js/jquery.flexslider.js?ver=4.0.7' id='devn-flexslider-js'></script>
-<script type='text/javascript' src='http://azevan.com/wp-content/themes/aaika/core/shortcodes/assets/js/shortcode.js?ver=4.0.7' id='devn-shortcode-js'></script>
-<script type='text/javascript' src='http://azevan.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.4.1' id='wpb_composer_front_js-js'></script>
+<script type='text/javascript' src='wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.2.2' id='contact-form-7-js'></script>
+<script type='text/javascript' src='wp-content/themes/aaika/assets/js/custom.js?ver=4.0.7' id='devn-custom-js'></script>
+<script type='text/javascript' src='wp-content/themes/aaika/assets/js/viewportchecker.js?ver=4.0.7' id='devn-viewportchecker-js'></script>
+<script type='text/javascript' src='wp-content/themes/aaika/assets/js/pretty/js/jquery.prettyPhoto.js?ver=4.0.7' id='devn-prettyphoto-js'></script>
+<script type='text/javascript' src='wp-content/themes/aaika/assets/js/jquery.flexslider.js?ver=4.0.7' id='devn-flexslider-js'></script>
+<script type='text/javascript' src='wp-content/themes/aaika/core/shortcodes/assets/js/shortcode.js?ver=4.0.7' id='devn-shortcode-js'></script>
+<script type='text/javascript' src='wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.4.1' id='wpb_composer_front_js-js'></script>
 <a name="contact"></a>
 </body>
 </html>
