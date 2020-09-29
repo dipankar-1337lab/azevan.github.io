@@ -1349,3 +1349,4 @@ section.recent-posts .other-recent-posts li::after {
     background: rgba(0,0,0,0.3)!important;
 }
 }
+.branding.pitch-text{display: none;}
